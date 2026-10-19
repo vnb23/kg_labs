@@ -1,0 +1,7 @@
+cat <<EOF > .gitignore
+venv/
+build/
+dist/
+__pycache__/
+*.spec
+EOF
